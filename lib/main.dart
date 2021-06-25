@@ -1,6 +1,4 @@
 import 'package:coordinates_test/model/model_testing_voom.dart';
-import 'package:coordinates_test/model/model_voom.dart';
-import 'package:coordinates_test/screens/map_screen.dart';
 import 'package:coordinates_test/screens/map_screen_test.dart';
 import 'package:flutter/material.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
