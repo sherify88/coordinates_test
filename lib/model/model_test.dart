@@ -3,7 +3,6 @@ import 'package:coordinates_test/json_file_for_test/json_test.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/rendering.dart';
 
-class ModelTestingVoom with ChangeNotifier {}
 
 class ModelTest with ChangeNotifier {
   final merchant_name;
